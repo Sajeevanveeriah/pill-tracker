@@ -102,3 +102,7 @@ For an app update, change the `RELEASE` identifier in `sw.js` together with the 
 - MDN offline operation: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Offline_and_background_operation
 - MDN localStorage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 - Feature comparison: https://medisafeapp.com/features/
+
+## Project handoff
+
+Read the [project handoff](HANDOFF.md) for current work, checks and the next step.
